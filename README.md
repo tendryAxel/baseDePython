@@ -8,3 +8,14 @@
 - fonction.py
 - class.py
 - importation.py
+
+# To run
+Require :
+- run the command
+```sh
+pip install -r require.txt
+```
+ou
+```sh
+python -m pip install -r require.txt
+```
